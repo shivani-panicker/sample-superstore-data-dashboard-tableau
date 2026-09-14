@@ -100,23 +100,14 @@ Tableau Navigation objects are used to move between the two dashboard pages.
 - **Returns risk differs from returns volume.** Technology has fewer returned items than Office Supplies but represents a larger share of profit dollars exposed to returns because of its higher-value products.
 - **Shipping speed does not explain performance differences.** The analysis did not find a clear relationship between fulfillment time, returns, and profitability.
 
-## Project Structure
+## Dashboard Screenshots
+PAGE 1
+<img width="1642" height="606" alt="image" src="https://github.com/user-attachments/assets/d0ec8569-549c-4ff7-ba69-477954a8a0f9" />
+<img width="1637" height="567" alt="image" src="https://github.com/user-attachments/assets/58550ddd-3343-46e8-a612-efe882b5abb9" />
 
-```text
-Superstore-Performance-Dashboard-Tableau/
-│
-├── Data/
-│   ├── Orders_Clean
-│   └── Returns_Clean
-│
-├── Tableau/
-│   └── Superstore Performance Dashboard
-│
-├── Images/
-│   └── Dashboard screenshots
-│
-└── README.md
-```
+PAGE 2 
+<img width="1645" height="838" alt="image" src="https://github.com/user-attachments/assets/58f09153-8c21-49ea-a290-76b7e66e0139" />
+
 
 ## Conclusion
 
